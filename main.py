@@ -1,6 +1,7 @@
 # importing qrcode from python library
 # downloading the qrcode library while typing pip install qrcode in the terminal if you have created the virtual environment there unless it won't work.
 # you can create any qrcode likewise any link of your website or youtube link, even you can create your google pay, paytm qr code.
+# using the IDE- PyCharm 
 
 
 import qrcode as qr
